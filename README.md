@@ -1,7 +1,6 @@
-# Project Name
-> Finding driving variables of default customers and analysing to conclude business insights and recommendations 
-
-
+# Project Name: Lending Club Case Study
+> Performing exploratory data analysis (EDA) on the loan approval system.
+ 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -11,9 +10,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- - Case Study Background - Lending Club Case Study has dat set of loan. We need to find defaulters by finding atleast 5 driving variables of loan defaulting.
-- Business Problem - Trying to find defualting reasons or driving variables of loan payers
-- Dataset - Loan payers
+- Case Study Background - The company aims to identify key factors driving loan default, which are strong indicators of default. This knowledge can be used for portfolio and risk assessment purposes.Two risks associated with the bank's decision:
+Not approving the loan may result in a loss of business if the applicant is likely to repay.
+Approving the loan may lead to a financial loss if the applicant is likely to default.
+- Business Problem - The company aims to identify key factors driving loan default, which are strong indicators of default. This knowledge can be used for portfolio and risk assessment purposes.
+- Dataset - Loan data
 - Data handling and cleaning - Missing values,null values and outliers were handled for cleaned data for better analysis 
 - Analysis - Univariate Analysis, Bivariate Analysis
 - Observations, Insights and Recommendations are provided in the presentation
